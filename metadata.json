@@ -1,0 +1,5 @@
+{
+  "name": "Blessing Counter",
+  "description": "A simple, user-friendly app where users enter their blessings, and the app calculates and displays how fortunate they are compared to the world population.",
+  "requestFramePermissions": []
+}
